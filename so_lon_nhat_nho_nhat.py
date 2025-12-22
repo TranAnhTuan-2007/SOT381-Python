@@ -1,0 +1,8 @@
+a=float(input("nhập a: "))
+b=float(input("nhập b: "))
+c=float(input("nhập c: "))
+lon_nhat=max (a,b,c)
+nho_nhat=min (a,b,c)
+print(max)
+print(f"số lớn nhất là {lon_nhat}")
+print(f"số nhỏ nhất là {nho_nhat}")
